@@ -1,0 +1,9 @@
+color hexa code:
+
+ 1.#ECD5B6
+ 2.#F8A5FF
+ 3.#FF6AA8
+
+Font Family:
+	
+	Lexend - Regular
